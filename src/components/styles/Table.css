@@ -1,0 +1,42 @@
+table{
+    width: 100dvw;
+}
+
+thead{
+    width: inherit;
+    padding: .5rem;
+}
+
+tbody{
+    width: inherit;
+}
+
+/*
+.tr-headers{
+
+}
+
+.tr-header{
+
+}
+
+.tr-data{
+
+}
+
+.td-first{
+
+}
+
+.td-last{
+
+}
+
+.td-country{
+
+}
+
+.td-action{
+
+}
+*/
